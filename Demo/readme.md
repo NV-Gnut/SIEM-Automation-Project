@@ -1,8 +1,8 @@
 ## Mô hình thực nghiệm
 
-![image](/Diagram/Kien_truc_tong_quan.jpg)
+![image](/Diagram/Mo_hinh_thuc_nghiem.jpg)
 
-## Video thực nghiệm: https://drive.google.com/drive/folders/1Gmgtp_FmUd20vFxsRamV8dOc75Zk6oNt
+## Video thực nghiệm: https://drive.google.com/file/d/1Z2dT7HiWIZebBV-owQhfRyyxYXcDe5oA/view?usp=drive_link
 
 ## Kịch bản thực nghiệm
 ### Mục tiêu thực nghiệm:
