@@ -10,7 +10,7 @@ SPACE_ID = os.getenv('KIBANA_SPACE')
 
 RULES_INPUT = 'rules/'
 NDJSON_OUTPUT = 'rules/windows_rules.ndjson'
-#
+#####
 def get_sigma_path():
     sigma_path = shutil.which("sigma")
     if sigma_path: return f'"{sigma_path}"'
