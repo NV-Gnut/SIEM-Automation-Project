@@ -32,7 +32,7 @@ COLOR_NEON_RED = "#FF3B30"
 COLOR_DARK_RED = "#660000"     
 
 ctk.set_appearance_mode("light") 
-
+###
 class SOCXCommand(ctk.CTk):
     def __init__(self):
         super().__init__()
