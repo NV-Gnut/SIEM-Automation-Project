@@ -6,12 +6,18 @@
   "description": "Phát hiện đăng nhập lỗi quá 50 lần từ một IP nguồn",
   "query": "event.category: \"authentication\" and event.outcome: \"failure\"",
   "threshold": {
-    "field": ["source.ip"],
+    "field": [
+      "source.ip"
+    ],
     "value": 5
   },
-  "index": ["winlogbeat-*", "logs-endpoint.events.*"],
+  "index": [
+    "winlogbeat-*",
+    "logs-endpoint.events.*"
+  ],
   "severity": "high",
   "interval": "1m",
   "from": "now-120s",
-  "risk_score": 70
+  "risk_score": 70,
+  "enabled": false
 }

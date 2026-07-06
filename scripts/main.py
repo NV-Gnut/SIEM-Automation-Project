@@ -23,7 +23,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 COLOR_BG_LIGHT = "#F0F2F5"     
 COLOR_SIDEBAR = "#FFFFFF"      
 COLOR_FRAME = "#FFFFFF"        
-COLOR_ACCENT = "#0062FF"       ##
+COLOR_ACCENT = "#0062FF"       ###
 COLOR_TEXT_DARK = "#1C1E21"    
 COLOR_TEXT_MUTED = "#65676B"   
 COLOR_BORDER = "#E4E6EB"       
