@@ -19,7 +19,7 @@ from manager import RuleManager
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-# --- CẤU HÌNH MÀU SẮC CLEAN TECH ---
+# --- CẤU HÌNH MÀU SẮC CLEAN TECH ---ss
 COLOR_BG_LIGHT = "#F0F2F5"     
 COLOR_SIDEBAR = "#FFFFFF"      
 COLOR_FRAME = "#FFFFFF"        
