@@ -12,7 +12,7 @@ from datetime import datetime, timezone, timedelta
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 logging.getLogger("elasticsearch").setLevel(logging.ERROR)
 load_dotenv()
-
+##3heell
 class AlertMonitor:
     def __init__(self):
         self.branch = self._get_current_branch()
